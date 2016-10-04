@@ -1,2 +1,3 @@
-# ip
-HTTP server that returns your IP.
+# IP
+
+Nginx configuration file for simple and fast IP-echoing.
